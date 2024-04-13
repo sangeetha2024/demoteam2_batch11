@@ -1,0 +1,39 @@
+body{
+    background-image:url(R.jpg);
+    padding-top: 15%;
+}
+h1{
+    text-align: center;
+    color: black;
+    display: inline;
+    margin-left: 50%;
+    
+
+
+}
+
+table{
+border: 5px solid black;
+width: 400px;
+height: 300px;
+text-align: center;
+  margin-left: 40%;
+  border-style: groove;
+  border-color: black;
+  border-radius: 40px;
+  font-style: oblique;
+  font-family:cursive;
+ }
+ .one:hover{
+    color: red;
+    cursor: pointer;
+ }
+ .two:hover{
+    background-color: black;
+    color: white;
+ }
+.usericon{
+    background-image: url(https://icons8.com/icon/98957/user);
+}
+
+
