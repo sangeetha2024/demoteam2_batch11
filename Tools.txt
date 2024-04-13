@@ -1,0 +1,52 @@
+01. Python
+02. Java
+03. Jira
+04. Chat GPT
+05. MySQL
+06. Selenium
+07. Mango DB
+08. Express JS
+09. Angular JS
+10. Node JS
+11. Ruby
+12. .net
+13. Blackbox
+14. GitHub
+15. React JS
+16. Bootstrap
+17. NetBeans
+18. Eclipse
+19. Pycharm
+20. Visual studio 
+21. Microsoft Azure
+22. Atom
+23. Gemini
+24. Devops 
+25. Appium
+26. Cucumber
+27. Cypress
+28. See test
+29. LoadRunner
+30. AWS
+31. Cybersecurity
+32. Collaborator
+33. Dreamweaver
+34. HTML Builder
+35. Canva
+36. Jenkins
+37. PHP
+38. Powershell
+39. SQL
+40. CSS
+41. Javascript
+42. Online compiler
+43. Ranorex
+44. Tricentis Tosca
+45. Apache JMeter
+46. Cypress
+47. Katalon Studio
+48. LoadRunner
+49. LoadBalancer
+50. Management
+
+
